@@ -99,6 +99,7 @@ dist\app.exe
 ```
 
 ---
+Open app.exe file will be inside the dist folder.
 
 ## Exporting Logs
 To export logs:
